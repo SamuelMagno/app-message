@@ -1,0 +1,15 @@
+{
+    "name": "samue/app-message",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samuel Magno",
+            "email": "samuelrtfmagno@gmail.com"
+        }
+    ],
+    "require": {}
+}
